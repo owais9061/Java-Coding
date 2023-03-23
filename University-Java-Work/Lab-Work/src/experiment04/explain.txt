@@ -1,0 +1,19 @@
+1- The code is a scientific calculator that calculates the square, cube, and factorial of an integer.
+2- The code is written in Java.
+3- Inside Default Constructor: The default constructor for this class does not do anything.
+4- It just prints out "Inside Default Constructor" to the console.
+5- Inside Parameterized Constructor: This constructor takes one parameter which is an int value x .
+6- This constructor then prints out "Inside Parameterized Constructor" to the console before it starts calculating squares and cubes using System.out .
+7- The code is an example of a class with two constructors.
+8- The first constructor, scientificCalculator(), will be called when the object is created by default.
+9- The second constructor, scientificCalculator(int x), will be called when the parameterized constructor is used to create an instance of the object.
+10- The calculateSquare() method takes in one integer argument and returns that value squared.
+11- The calculateCube() method takes in one integer argument and returns that value cubed.
+12- The calculateFactorial() method takes in one integer argument and returns that value factored out into its own variable, factorial, which starts at 1 and then increments by 1 until it reaches the input number x (in this case 10).
+13- The first line in the main method prints "Square of 5: " + calculator1.calculateSquare(5) to the console window.
+14- This calculates the square root of 5 using Calculator1's calculateSquare() function, which is then printed to the console window as "2".
+15- The next line in the main method prints "Cube of 5: " + calculator1.calculateCube(5) to the console window.
+16- This calculates cube roots by multiplying each side by itself three times and then taking their sum (3 * 3 * 3).
+17- It is then printed to the console window as 27.
+18- The last line in this code generates a table for both calculators that shows how many calculations it took them to find out what they are calculating at any given time during their calculation process
+19- The code is a piece of code that will generate a table of the square, cube, and factorial of numbers.

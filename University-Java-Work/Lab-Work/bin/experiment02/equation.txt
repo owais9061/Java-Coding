@@ -1,0 +1,7 @@
+1-  The code calculates the result of a trigonometric equation.
+2-  The user-defined value of x is 1.5, and the equations are 3 * Math.pow(x, 4) * Math.sin(Math.toRadians(180*x)), 4 * Math.pow(x, 3) * Math.cos(Math.toRadians(90*x)), and 7 * x + 9 * Math.cos (Math .
+ toRadians ( 90*Math .
+3-  pow (x , 2))).
+4-  The code calculates the result by using a for loop that iterates through 
+        each equation in turn: for i = 0 to 5 { } // Iterate through all five equations in order
+5-  The code will calculate the following: 3 * Math.pow(x, 4) * Math.sin(Math.toRadians(180 * x)) + 4 * Math.pow(x, 3) * Math.cos(Math.toRadians(90 * x)) + 7 * x + 9 * Math.cos(Math.toRadians(90*Math.pow (x, 2)));

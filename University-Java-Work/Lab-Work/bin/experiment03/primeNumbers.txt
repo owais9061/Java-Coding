@@ -1,0 +1,7 @@
+1-  The code starts by declaring a variable n, which is the number of prime numbers to be generated.
+2-  The next line declares a Scanner object and assigns it to the variable scanner.
+3-  Next, System.out.print("Enter an integer: "); asks for input from the user in order to create an integer value that will be stored in the variable n. After this, System.out prints Prime numbers up to " + n + ":" on screen with two blank lines between each number so that there are no gaps in between them when they are printed out on screen as well as showing how many prime numbers have been generated so far (2).
+4-  Then comes another for loop that iterates through all of the integers from 2-n and checks if any of those integers is divisible by any other one before continuing onto checking if it's divisible by itself or not (i <= n; i++) .
+5-  If none of these conditions are true then return false; otherwise continue onto checking whether or not it's divisible by any other one again until either condition is met (Math.sqrt(n); Math.sqrt(n) ).
+6-  Finally, return true; at the end indicates that this particular number has been found to be prime and
+7-  The code is used to find prime numbers up to a given number.

@@ -1,0 +1,7 @@
+ 1- The code asks the user to enter a positive integer n. The code then prints "Enter a positive integer n: " and waits for the user to input an integer.
+ 2- Once the user inputs an integer, it is stored in variable n. Next, the code asks for a value of Fibonacci sequence by calling fibonacci(n).
+ 3- This function returns the next value of Fibonacci sequence after inputting number n into variable n. If number entered is less than 1, then return number entered; otherwise go back one step and get next two values from previous two numbers in Fibonacci sequence using fibonacci(n-1) and fibonacci(n-2).
+ 4- Finally, this function outputs what it has calculated so far on screen with "The " + n + "th value of the Fibonacci sequence is" followed by current result plus last result (fib+fib), which equals to current result plus last 2 results (fib+fib+fib).
+ 5- The code is a simple Java program that calculates the nth value of the Fibonacci sequence.
+ 6- It begins by asking the user to enter an integer n, which will be used to calculate the Fibonacci sequence.
+ 7- The next line in the code asks for input from the user and stores it into a variable named n.
