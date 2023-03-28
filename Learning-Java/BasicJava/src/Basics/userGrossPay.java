@@ -12,9 +12,9 @@ public class userGrossPay
  Scanner input = new Scanner(System.in);
 
  //?identifier declarations
- double hours; //number of hours worked
- double rate; //hourly pay rate
- double pay; //gross pay
+ double hours;
+ double rate;
+ double pay;
  
  //?display prompts and get input
  System.out.print("How many hours did you work? ");
