@@ -13,7 +13,7 @@ public class celciusToFaranheit{
         double celcius, faranheit;
         System.out.println("SIMPLE CELCIUS TO FARANHEIT CALCULATOR");
         Scanner input = new Scanner(System.in);
-        System.out.println("Input Temperature in Ceclcius: ");
+        System.out.println("Input Temperature in Celcius: ");
         celcius = input.nextInt();
         faranheit = (9.0/5)* celcius +32;
         System.out.println(celcius + "* Celcius Temperature in Faranheit is: " + faranheit);
