@@ -1,0 +1,11 @@
+It's a simple JAVA program in which we just simply use a 
+SYSTEM.OUT.PRINTLN statement to print a certain thing
+and then use CMD (COmmand Prompt) to run it without the IDE (Ecclipse)
+
+by :
+1- open CMD inthe folder where the file is located
+2- type javac [name of the file such as code.java, one,java]
+
+REMEBR: to put .java in the name
+
+THAT's it, the CMD will show the print statement you write in the code.
