@@ -12,7 +12,7 @@ You can calculate the amount of time it takes sound to travel in steel with the 
 Time - Distance/ 16,400;
  */
 
-package assignment01;
+package assignmentLab01;
 import java.util.Scanner;
 public class speedOfSound {
     public static void main (String[]args){
