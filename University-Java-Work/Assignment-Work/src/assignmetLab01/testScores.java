@@ -3,7 +3,7 @@
  * should display the average of the test stores and the letter grade that is assigned for the 
  * test score average. */
 
-package assignment01;
+package assignmentLab01;
 
 import java.util.Scanner;
  
