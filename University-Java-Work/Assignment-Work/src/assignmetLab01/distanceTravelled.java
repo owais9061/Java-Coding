@@ -12,7 +12,7 @@ Hour                  Distance Traveled
 Input Validation: Do not accept a negative number for speed and do not accept any value les than 1 for time traveled.
  */
 
-package assignment01;
+package assignmentLab01;
 import java.util.Scanner;
 
 public class distanceTravelled {
